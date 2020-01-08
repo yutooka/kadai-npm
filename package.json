@@ -1,0 +1,19 @@
+{
+  "name": "kadai-npm",
+  "version": "1.0.0",
+  "description": "課題",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutooka/kadai-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutooka/kadai-npm/issues"
+  },
+  "homepage": "https://github.com/yutooka/kadai-npm#readme"
+}
